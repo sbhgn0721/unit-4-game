@@ -1,0 +1,49 @@
+.container {
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+
+.header {
+    font-size: 30px;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.instruction-content {
+    background-color: bisque;
+    color: green;
+    font-weight: bold;
+}
+   
+
+
+.crystal {
+    height: 100px;
+    padding-left: 0px;
+    
+}
+
+.target-score {
+    background-color: green;
+    color: red;
+    font-weight: bold;
+    font-size: 30px;
+    
+
+
+}
+
+
+
+.wins-losses {
+    background-color: aqua;
+}
+
+.total-score {
+    background-color: goldenrod;
+    color: white;
+    font-weight: bold;
+
+}
